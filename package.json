@@ -39,19 +39,21 @@
     "app.js",
     "agent.js",
     "config",
-    "app"
+    "app",
+    "lib",
+    "extend"
   ],
   "ci": {
     "version": "8, 10"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-ons-http.git"
+    "url": "git+https://github.com/WMTcore/egg-ons-http.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/WMTcore/egg-ons-http/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-ons-http#readme",
+  "homepage": "https://github.com/WMTcore/egg-ons-http#readme",
   "author": "",
   "license": "MIT"
 }
