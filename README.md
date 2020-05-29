@@ -25,7 +25,7 @@ aliyun ons http plugin for egg
 ## Install
 
 ```bash
-$ npm i egg-ons --save
+$ npm i egg-ons-http --save
 ```
 
 ## Usage
