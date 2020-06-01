@@ -94,8 +94,8 @@ class TestSubscriber {
     this.ctx = ctx;
   }
 
-  * subscribe(msg) {
-    yield this.ctx.service.messageService.process(msg);
+  async subscribe(msg) {
+    await this.ctx.service.messageService.process(msg);
   }
 
   static get subExpression() {
